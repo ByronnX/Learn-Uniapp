@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "uni-app1",
+  "usingComponents": {
+    "uni-test2": "../../components/uni-test2/uni-test2",
+    "uni-test3": "../../components/uni-test3",
+    "father": "../Father/Father"
+  }
+}

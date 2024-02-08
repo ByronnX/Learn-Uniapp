@@ -1,0 +1,1 @@
+<view id="app"> 我是Index </view><father u-i="66ff9bfe-0" bind:__l="__l"></father><uni-test2 u-i="66ff9bfe-1" bind:__l="__l"></uni-test2><uni-test3 u-i="66ff9bfe-2" bind:__l="__l"></uni-test3>
