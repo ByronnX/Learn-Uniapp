@@ -1,3 +1,5 @@
 #app{
 	background-color: red;
+	
+	height: var(--status-bar-height);
 }

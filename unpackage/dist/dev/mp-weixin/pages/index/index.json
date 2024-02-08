@@ -1,5 +1,9 @@
 {
   "navigationBarTitleText": "uni-app1",
+  "navigationBarBackgroundColor": "#ff0000",
+  "backgroundColor": "#00ff00",
+  "enablePullDownRefresh": true,
+  "backgroundTextStyle": "light",
   "usingComponents": {
     "uni-test2": "../../components/uni-test2/uni-test2",
     "uni-test3": "../../components/uni-test3",

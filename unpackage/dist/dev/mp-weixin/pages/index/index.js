@@ -14,8 +14,17 @@ const Father = () => "../Father/Father2.js";
 const _sfc_main = {
   __name: "index",
   setup(__props) {
+    function scanCode() {
+      common_vendor.index.scanCode({
+        success(data) {
+          console.log(data);
+        }
+      });
+    }
     return (_ctx, _cache) => {
-      return {};
+      return {
+        a: common_vendor.o(scanCode)
+      };
     };
   }
 };

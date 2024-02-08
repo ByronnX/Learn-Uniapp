@@ -2,11 +2,14 @@
 	<view>
 		I am Father
 	</view>
+	
 	<button @tap="clickToSon">方法一：点击去son</button>
 	<navigator open-type="navigate" url="/pages/Son/Son">方法二：点击去Son</navigator>
 	<Son></Son>
 	<!-- <Daughter></Daughter> -->
-	
+	<view style="height: 100vh;background-color: rebeccapurple;">
+		I am Father
+	</view>
 </template>
 
 <script setup>

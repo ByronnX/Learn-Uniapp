@@ -1,1 +1,1 @@
-<view> I am Father </view><button bindtap="{{a}}">方法一：点击去son</button><navigator open-type="navigate" url="/pages/Son/Son">方法二：点击去Son</navigator><son u-i="45e78c1b-0" bind:__l="__l"></son>
+<view> I am Father </view><button bindtap="{{a}}">方法一：点击去son</button><navigator open-type="navigate" url="/pages/Son/Son">方法二：点击去Son</navigator><son u-i="45e78c1b-0" bind:__l="__l"></son><view style="height:100vh;background-color:rebeccapurple"> I am Father </view>
